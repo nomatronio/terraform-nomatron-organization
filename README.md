@@ -77,4 +77,4 @@ Replace the resource addresses with the addresses in your Terraform configuratio
 
 ## License
 
-A license will be added before publication.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
